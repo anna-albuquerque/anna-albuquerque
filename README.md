@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Adicionar - curiosidade com hardware e software, desmonte de máquinas e remonte. Desmontar três quebrados e fazer um funcionar.
+LINK para ver dicas: https://www.hashtagtreinamentos.com/como-criar-um-readme-no-github-ciencias-de-dados?gad=1&gclid=CjwKCAjwl6OiBhA2EiwAuUwWZS_TB_SLWDToA3Yi6duqPfGcZlaa4MgYl6GbZb7ODyWGBnf72bIv3BoCPiIQAvD_BwE
 
 -->
 
