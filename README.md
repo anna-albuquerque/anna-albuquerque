@@ -1,4 +1,7 @@
-### Hi there 👋
+### Bem vinde ao meu github!
+**Me chamo Anna Carolinne** 👩‍💻
+
+Estou começando a estudar Análiste e Desenvolvimento de Sistemas, mas sempre fui curiosa em relação a tudo sobre tecnlogias e equipamentos, desde o funcionamento do hardware quanto do software. 
 
 <!--
 **anna-albuquerque/anna-albuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +14,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+
+Adicionar - curiosidade com hardware e software, desmonte de máquinas e remonte. Desmontar três quebrados e fazer um funcionar.
+
 -->
+
