@@ -1,7 +1,7 @@
 ### Bem vinde ao meu github!
 **Me chamo Anna Carolinne** 👩‍💻
 
-Estou começando a estudar Análiste e Desenvolvimento de Sistemas, mas sempre fui curiosa em relação a tudo sobre tecnlogias e equipamentos, desde o funcionamento do hardware quanto do software. 
+Estou começando a estudar Análiste e Desenvolvimento de Sistemas, mas sempre fui curiosa em relação a tudo sobre tecnlogias e equipamentos, desde o funcionamento do hardware quanto a criação de desenvolvimento dos softwares. 
 
 <!--
 **anna-albuquerque/anna-albuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
