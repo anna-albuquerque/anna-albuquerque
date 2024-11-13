@@ -1,4 +1,4 @@
-### Bem vinde ao meu github!
+### Bem vindo ao meu github!
 **Me chamo Anna Carolinne** 👩‍💻
 
 Estou começando a estudar Análiste e Desenvolvimento de Sistemas, mas sempre fui curiosa em relação a tudo sobre tecnlogias e equipamentos, desde o funcionamento do hardware quanto a criação de desenvolvimento dos softwares. 
